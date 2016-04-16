@@ -1,3 +1,4 @@
+#include <cstring>
 #include "wav2png.hpp"
 
 #include <math.h>
