@@ -1,3 +1,4 @@
+#include <cstring>
 #include <sndfile.hh>
 #include <png++/png.hpp>
 
